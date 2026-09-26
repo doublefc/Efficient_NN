@@ -18,8 +18,6 @@ python measure.py                       # → results/measurements.csv
 # 3. Calibrate theta from measurements
 python calibrate.py                     # → results/theta.json
 
-# 4. Generate plots
-python plot.py                          # → results/figures/*.png
 ```
 
 On Google Colab: open a GPU notebook, `!git clone <your-repo>`, then run the cells above.
